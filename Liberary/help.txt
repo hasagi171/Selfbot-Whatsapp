@@ -1,4 +1,4 @@
-->_<| *Beta VHSelfbot* |>_<-
+->_<| *Adelia v3* |>_<-
 
 *Command :*
 
@@ -109,6 +109,6 @@
 * Giftext {query)
 * Sgiftext {query)
 
-Rest API's : VHTear
+Owner : wa.me/6285339189356 (Marsel Hasagi)
 
 ->_<| *Beta VHSelfbot* |>_<-
